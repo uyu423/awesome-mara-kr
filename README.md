@@ -2,6 +2,12 @@
 
 한국 마라 음식 맛집 정리. ~저는 마라 매니아입니다.~
 
+- 참고자료
+  - [사천 요리(나무위키](https://namu.wiki/w/%EC%82%AC%EC%B2%9C%20%EC%9A%94%EB%A6%AC)
+  - [마라탕(나무위키)](https://namu.wiki/w/%EB%A7%88%EB%9D%BC%ED%83%95)
+  - [훠궈(나무위키)](https://namu.wiki/w/%ED%9B%A0%EA%B6%88)
+  - [초피(산초, 마라의 재료)(나무위키)](https://namu.wiki/w/%EC%B4%88%ED%94%BC)
+
 ## 대림
 
 ### `해성샤브샤브`
