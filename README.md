@@ -41,6 +41,11 @@
 - [ ] 방문여부
 - [네이버 블로그](http://blog.naver.com/PostView.nhn?blogId=kinji38317&logNo=220553501374)
 
+### `매운향솥`
+- [ ] 방문여부
+- [네이버](https://store.naver.com/restaurants/detail?id=34203618)
+- 건대에 2개가 있는데 1,2 호점이라고 함. 어디가 1호점인지는 
+
 ## 서울대입구
 
 ### `두만강샤브샤브`
