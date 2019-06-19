@@ -63,9 +63,10 @@
 
 ### `애정마라샹궈`
 
-- [x] 방문여부
+- [x] 방문여부 (@sookcha)
 - [네이버](https://store.naver.com/restaurants/detail?id=35394856)
 - 마라탕/마라샹궈 둘 다 맛있음.
+- Thanks [@sookcha](https://github.com/sookcha) 
 
 ## 영등포
 
